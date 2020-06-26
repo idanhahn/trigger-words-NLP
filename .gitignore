@@ -1,0 +1,7 @@
+helpers/
+data/
+cache/
+ref/
+*.swp
+.ipynb_checkpoints
+.DS_Store
